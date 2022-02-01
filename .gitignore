@@ -1,0 +1,7 @@
+# Archivos que no se guardan en el repositorio
+Nuevo documento de texto.txt
+*.tmp
+*.dmp
+
+# Carpetas que no se guardan en el repositorio
+Debug/ 
